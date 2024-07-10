@@ -1,0 +1,5 @@
+Contactless Thermometer	CT	Japan	2	6.20
+Hand Sanitizer	HS	USA	1	3.50
+Face Mask	FM	China	2	100.00
+Surgical Mask	SM	China	2	38.00
+Oxygen Mask	OM	Bangladesh	3	2.00
